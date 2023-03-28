@@ -1,25 +1,23 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Flutter projects\\group_chatapp_flutter_firebase-main\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Flutter projects\\Flutter ChatApp\\group_chatapp_flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "D:\\Flutter projects\\group_chatapp_flutter_firebase-main\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\Flutter projects\\Flutter ChatApp\\group_chatapp_flutter\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
                     "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,718",
+                        "endColumns": "143,81,103,108,119,103,80",
+                        "endOffsets": "194,276,380,489,609,713,794"
                     },
                     "to": {
-                        "startLines": "138,143",
-                        "startColumns": "4,4",
-                        "startOffsets": "10085,10393",
-                        "endLines": "142,145",
-                        "endColumns": "12,12",
-                        "endOffsets": "10388,10557"
+                        "startLines": "126,131,132,133,134,135,136",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "8973,9414,9496,9600,9709,9829,9933",
+                        "endColumns": "143,81,103,108,119,103,80",
+                        "endOffsets": "9112,9491,9595,9704,9824,9928,10009"
                     }
                 },
                 {
@@ -95,20 +93,22 @@
                     }
                 },
                 {
-                    "source": "D:\\Flutter projects\\group_chatapp_flutter_firebase-main\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "source": "D:\\Flutter projects\\Flutter ChatApp\\group_chatapp_flutter\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,718",
-                        "endColumns": "143,81,103,108,119,103,80",
-                        "endOffsets": "194,276,380,489,609,713,794"
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
                     },
                     "to": {
-                        "startLines": "126,131,132,133,134,135,136",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "8973,9414,9496,9600,9709,9829,9933",
-                        "endColumns": "143,81,103,108,119,103,80",
-                        "endOffsets": "9112,9491,9595,9704,9824,9928,10009"
+                        "startLines": "138,143",
+                        "startColumns": "4,4",
+                        "startOffsets": "10085,10393",
+                        "endLines": "142,145",
+                        "endColumns": "12,12",
+                        "endOffsets": "10388,10557"
                     }
                 },
                 {

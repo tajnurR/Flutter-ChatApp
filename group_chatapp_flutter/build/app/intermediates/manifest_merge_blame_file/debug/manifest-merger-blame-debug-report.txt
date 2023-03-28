@@ -13,17 +13,17 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->D:\Flutter projects\group_chatapp_flutter_firebase-main\android\app\src\debug\AndroidManifest.xml:7:5-66
-15-->D:\Flutter projects\group_chatapp_flutter_firebase-main\android\app\src\debug\AndroidManifest.xml:7:22-64
+15-->D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\android\app\src\debug\AndroidManifest.xml:7:5-66
+15-->D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\android\app\src\debug\AndroidManifest.xml:7:22-64
 16    <uses-permission android:name="android.permission.WAKE_LOCK" />
-16-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-68
-16-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-65
+16-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-68
+16-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-65
 17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Permissions options for the `notification` group -->
-17-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
-17-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-76
+17-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:11:5-79
+17-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:11:22-76
 18    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" /> <!-- Required by older versions of Google Play services to create IID tokens -->
-18-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-77
-18-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-74
+18-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:5-77
+18-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:13:22-74
 19    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 19-->[com.google.firebase:firebase-messaging:23.1.2] C:\Users\Asus\.gradle\caches\transforms-3\dc994eae7b89dd204a645b45652473a6\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:28:5-82
 19-->[com.google.firebase:firebase-messaging:23.1.2] C:\Users\Asus\.gradle\caches\transforms-3\dc994eae7b89dd204a645b45652473a6\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:28:22-79
@@ -69,37 +69,37 @@
 58            android:value="2" />
 59
 60        <service
-60-->[:firebase_auth] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
+60-->[:firebase_auth] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:19
 61            android:name="com.google.firebase.components.ComponentDiscoveryService"
-61-->[:firebase_auth] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
+61-->[:firebase_auth] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:10:18-89
 62            android:directBootAware="true"
 62-->[com.google.firebase:firebase-common:20.3.2] C:\Users\Asus\.gradle\caches\transforms-3\181e6d695a54d7901f0c14ccc7f2a5af\transformed\jetified-firebase-common-20.3.2\AndroidManifest.xml:34:13-43
 63            android:exported="false" >
 63-->[com.google.firebase:firebase-messaging:23.1.2] C:\Users\Asus\.gradle\caches\transforms-3\dc994eae7b89dd204a645b45652473a6\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:54:13-37
 64            <meta-data
-64-->[:firebase_auth] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+64-->[:firebase_auth] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 65                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-65-->[:firebase_auth] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+65-->[:firebase_auth] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 66                android:value="com.google.firebase.components.ComponentRegistrar" />
-66-->[:firebase_auth] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+66-->[:firebase_auth] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 67            <meta-data
-67-->[:cloud_firestore] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+67-->[:cloud_firestore] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 68                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-68-->[:cloud_firestore] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
+68-->[:cloud_firestore] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-134
 69                android:value="com.google.firebase.components.ComponentRegistrar" />
-69-->[:cloud_firestore] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+69-->[:cloud_firestore] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 70            <meta-data
-70-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-40:85
+70-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-40:85
 71                android:name="com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar"
-71-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:39:17-128
+71-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:39:17-128
 72                android:value="com.google.firebase.components.ComponentRegistrar" />
-72-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:40:17-82
+72-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:40:17-82
 73            <meta-data
-73-->[:firebase_core] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
+73-->[:firebase_core] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-13:85
 74                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-74-->[:firebase_core] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
+74-->[:firebase_core] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:12:17-124
 75                android:value="com.google.firebase.components.ComponentRegistrar" />
-75-->[:firebase_core] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
+75-->[:firebase_core] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:13:17-82
 76            <meta-data
 76-->[com.google.firebase:firebase-messaging:23.1.2] C:\Users\Asus\.gradle\caches\transforms-3\dc994eae7b89dd204a645b45652473a6\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:55:13-57:85
 77                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
@@ -132,53 +132,53 @@
 90-->[com.google.firebase:firebase-installations:17.1.3] C:\Users\Asus\.gradle\caches\transforms-3\e8773d04dfae0c667fac05672e3d6f0c\transformed\jetified-firebase-installations-17.1.3\AndroidManifest.xml:19:17-82
 91        </service>
 92        <service
-92-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-19:72
+92-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-19:72
 93            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService"
-93-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-107
+93-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-107
 94            android:exported="false"
-94-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
+94-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-37
 95            android:permission="android.permission.BIND_JOB_SERVICE" />
-95-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-69
+95-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-69
 96        <service
-96-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-26:19
+96-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:20:9-26:19
 97            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService"
-97-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-97
+97-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-97
 98            android:exported="false" >
-98-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-37
+98-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-37
 99            <intent-filter>
-99-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:29
+99-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:29
 100                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-100-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-78
-100-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:25-75
+100-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-78
+100-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:25-75
 101            </intent-filter>
 102        </service>
 103
 104        <receiver
-104-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-35:20
+104-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-35:20
 105            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver"
-105-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-98
+105-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-98
 106            android:exported="true"
-106-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-36
+106-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-36
 107            android:permission="com.google.android.c2dm.permission.SEND" >
-107-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-73
+107-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-73
 108            <intent-filter>
-108-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-34:29
+108-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-34:29
 109                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-109-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-81
-109-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-78
+109-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-81
+109-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-78
 110            </intent-filter>
 111        </receiver>
 112
 113        <provider
-113-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-47:38
+113-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:43:9-47:38
 114            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
-114-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-102
+114-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:44:13-102
 115            android:authorities="com.example.chatapp_firebase.flutterfirebasemessaginginitprovider"
-115-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-88
+115-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:45:13-88
 116            android:exported="false"
-116-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-37
+116-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-37
 117            android:initOrder="99" />
-117-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-35
+117-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-35
 118
 119        <uses-library
 119-->[androidx.window:window:1.0.0-beta04] C:\Users\Asus\.gradle\caches\transforms-3\c2f300af52ee5aa668c25773af4de8ab\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
@@ -202,10 +202,10 @@
 129            android:permission="com.google.android.c2dm.permission.SEND" >
 129-->[com.google.firebase:firebase-messaging:23.1.2] C:\Users\Asus\.gradle\caches\transforms-3\dc994eae7b89dd204a645b45652473a6\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:34:13-73
 130            <intent-filter>
-130-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-34:29
+130-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-34:29
 131                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-131-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-81
-131-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-78
+131-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:17-81
+131-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:33:25-78
 132            </intent-filter>
 133        </receiver>
 134        <!--
@@ -221,10 +221,10 @@
 141            android:exported="false" >
 141-->[com.google.firebase:firebase-messaging:23.1.2] C:\Users\Asus\.gradle\caches\transforms-3\dc994eae7b89dd204a645b45652473a6\transformed\jetified-firebase-messaging-23.1.2\AndroidManifest.xml:47:13-37
 142            <intent-filter android:priority="-500" >
-142-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:29
+142-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:29
 143                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-143-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-78
-143-->[:firebase_messaging] D:\Flutter projects\group_chatapp_flutter_firebase-main\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:25-75
+143-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-78
+143-->[:firebase_messaging] D:\Flutter projects\Flutter ChatApp\group_chatapp_flutter\build\firebase_messaging\intermediates\merged_manifest\debug\AndroidManifest.xml:24:25-75
 144            </intent-filter>
 145        </service>
 146        <service
